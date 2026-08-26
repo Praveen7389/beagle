@@ -1,0 +1,16 @@
+*{
+  margin-left: 5px;
+}
+.section_1{
+    border: 2px solid black;
+    padding: 5px;
+}
+h1{
+    margin-bottom: 20px;
+    font-weight: 700;
+    
+}
+span{
+    font-weight: 700;
+    font-style: italic;
+}
