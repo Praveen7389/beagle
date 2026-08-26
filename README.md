@@ -1,2 +1,0 @@
-# beagle
-html project
